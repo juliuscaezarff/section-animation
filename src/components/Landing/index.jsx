@@ -15,8 +15,8 @@ export default function Home() {
 
       {/* ir diminuindo o tamnho do texto com breakpoints */}
       <div className="flex items-center justify-center w-full h-[230px]">
-        <h1 className="text-center text-[220px] 2xl:text-[260px] font-general font-medium ">
-          Julius Caesar
+        <h1 className="text-center text-[11.46vw]  font-general font-medium ">
+          JULIUS CAEZAR
         </h1>
       </div>
     </section>
