@@ -33,10 +33,10 @@ const Nav = () => {
     <div className="flex shrink-0 gap-20 text-[#CECCD7]">
       <div className="flex flex-col gap-2">
       <h3 className='mb-2 uppercase text-[#ffffff80]'>Navegação</h3>
-        <p>Início</p>
-        <p>Projetos</p>
-        <p>Sobre</p>
-        <p>Contato</p>
+        <p className='flex items-center gap-1 font-General font-semibold text-xl'>Início</p>
+        <p className='flex items-center gap-1 font-General font-semibold text-xl'>Projetos</p>
+        <p className='flex items-center gap-1 font-General font-semibold text-xl'>Sobre</p>
+        <p className='flex items-center gap-1 font-General font-semibold text-xl'>Contato</p>
       </div>
       <div className="flex flex-col gap-2">
       <h3 className='mb-2 uppercase text-[#ffffff80]'>Links</h3>
